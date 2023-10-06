@@ -19,6 +19,25 @@ const SponsorPage = () => {
           >
             Sponsorship
         </h1>
+        <p style={{ 
+          fontSize: 20, 
+          marginTop: 20 }}>
+        Introduction
+      </p>
+      <p style={{ 
+        fontSize: 20 
+        }}
+        >
+        more
+      </p>
+      <p style={{ 
+        fontSize: 20 
+        }}
+        >
+        contact us at <a 
+        href="@.com">@example.com
+        </a>.
+      </p>
     </div>
   );
 }
